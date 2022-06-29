@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello ! ✌️, I'm <a href="https://www.linkedin.com/in/sheetal-patil-11b29a178/">Sheetal Patil</a></h1>
 <h3 align="center">Software Engineering Student</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sheetalpatil117&label=Profile%20views&color=0e75b6&style=flat" alt="Sheetal" /> </p>
 
 <p align="center">
 <a href="https://www.hackerrank.com/patzz1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sheetal" height="30" width="40" /></a>
